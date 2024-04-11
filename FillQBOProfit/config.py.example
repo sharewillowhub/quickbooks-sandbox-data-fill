@@ -1,0 +1,5 @@
+Auth_Code = 'auth-code'
+Realm_ID = 'realm-id'
+Auth_Basic_Code = 'auth-basic-code=='
+Redirect_Uri = 'https://developer.intuit.com/v2/OAuth2Playground/RedirectUrl'
+Url = 'https://sandbox-quickbooks.api.intuit.com/v3/company/'
